@@ -1,2 +1,4 @@
-Codeforces Educational Round 166-
-
+Codeforces Educational Round 166-{
+Problem B- i tried implementing something with lower bound which can easily be done with min. donlt overthink lol think basics.
+wasted a lot of time on it coz of that. Solved 2
+}
