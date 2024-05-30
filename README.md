@@ -1,1 +1,1 @@
-# cp-templates
+templates and notes for cp
