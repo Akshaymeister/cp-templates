@@ -1,3 +1,8 @@
+949(https://codeforces.com/contests/1981)={
+was able to do problem a using powers of 2
+second problem involved some logic i didnt figure out.solved 1
+}
+
 Codeforces Educational Round 166-{
 Problem B- i tried implementing something with lower bound which can easily be done with min. donlt overthink lol think basics.
 wasted a lot of time on it coz of that. Solved 2
